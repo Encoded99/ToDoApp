@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# ToDoApp
+A feature-rich To-Do List mobile application built with React Native and Expo, supporting task creation, search, sorting, dark mode, and local storage management using AsyncStorage.
+>>>>>>> 3bad09d7c6ee601db7f351fe91f08eccaab314a5
