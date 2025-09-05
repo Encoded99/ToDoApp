@@ -1,55 +1,45 @@
 <<<<<<< HEAD
-# Welcome to your Expo app 👋
+To-Do List App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native To-Do List application built with Expo that allows users to create, search, and manage tasks efficiently. This app also supports dark mode, task sorting, and persistent storage with AsyncStorage.
 
-## Get started
+Features
 
-1. Install dependencies
+Add, view, and manage tasks
 
-   ```bash
-   npm install
-   ```
+Search tasks with real-time filtering
 
-2. Start the app
+Sort tasks by title or date
 
-   ```bash
-   npx expo start
-   ```
+Persistent storage using AsyncStorage
 
-In the output, you'll find options to open the app in a
+Dark Mode toggle for better accessibility
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Responsive layout for various device sizes
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Smooth UI interactions using React Native components
 
-## Get a fresh project
+Visual distinction between completed and incomplete tasks
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
+Technologies Used
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+React Native (0.79.x)
 
-## Learn more
+Expo (SDK 53)
 
-To learn more about developing your project with Expo, look at the following resources:
+TypeScript for type safety
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Zustand for state management
 
-## Join the community
+AsyncStorage for persistent task storage
 
-Join our community of developers creating universal apps.
+React Native Vector Icons for UI icons
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# ToDoApp
-A feature-rich To-Do List mobile application built with React Native and Expo, supporting task creation, search, sorting, dark mode, and local storage management using AsyncStorage.
->>>>>>> 3bad09d7c6ee601db7f351fe91f08eccaab314a5
+React Native Responsive Fontsize for scaling text
+
+React Native Calendars for date selection
+
+Installation
+
+Clone the repository
